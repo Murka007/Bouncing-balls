@@ -1,6 +1,6 @@
 # Bouncing balls
 
-Live version of the sandbox: https://edrickennardyan.github.io/Bouncing-balls/
+Demo version of the sandbox: https://murka007.github.io/Tic-Tac-Toe/
 
 **Features:**
 - Using vectors and elastic collisions
